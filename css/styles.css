@@ -1,0 +1,42 @@
+
+body{
+  margin:0;
+  text-align: center;
+
+    }
+   h1{
+  width: 10%;
+  margin: 0 auto 0 auto;
+  font-style: italic;
+  font-size: 3em;
+  font-family: 'merriweather',serif;
+  color: Bisque;
+
+}
+.top{
+  background-color: #b2ebf2;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  margin-left: 100px;
+}
+.top-cloud{
+  margin-left: 400px;
+}
+.pro{
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+.middle-container{
+  background-color: Bisque;
+}
+.bottom-container{
+  background-color: Bisque;
+}
+.it{
+  font-style: italic;
+  font-weight: bold;
+}
